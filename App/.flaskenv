@@ -1,0 +1,2 @@
+FLASK_APP=scrap_dominios.py
+FLASK_DEBUG=1
